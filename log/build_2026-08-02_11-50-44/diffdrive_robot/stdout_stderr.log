@@ -1,0 +1,36 @@
+running egg_info
+creating build/diffdrive_robot/diffdrive_robot.egg-info
+writing build/diffdrive_robot/diffdrive_robot.egg-info/PKG-INFO
+writing dependency_links to build/diffdrive_robot/diffdrive_robot.egg-info/dependency_links.txt
+writing requirements to build/diffdrive_robot/diffdrive_robot.egg-info/requires.txt
+writing top-level names to build/diffdrive_robot/diffdrive_robot.egg-info/top_level.txt
+writing manifest file 'build/diffdrive_robot/diffdrive_robot.egg-info/SOURCES.txt'
+reading manifest file 'build/diffdrive_robot/diffdrive_robot.egg-info/SOURCES.txt'
+writing manifest file 'build/diffdrive_robot/diffdrive_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build/lib
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build/lib/diffdrive_robot
+copying diffdrive_robot/__init__.py -> /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build/lib/diffdrive_robot
+running install
+running install_lib
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages/diffdrive_robot
+copying /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build/lib/diffdrive_robot/__init__.py -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages/diffdrive_robot
+byte-compiling /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages/diffdrive_robot/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/ament_index
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/ament_index/resource_index
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/ament_index/resource_index/packages
+copying resource/diffdrive_robot -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/launch
+copying launch/gazebo_sim.launch.py -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/launch
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/urdf
+copying urdf/diffdrive_robot.urdf.xacro -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/urdf
+creating /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/config
+copying config/diffdrive_controllers.yaml -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/config
+running install_egg_info
+Copying build/diffdrive_robot/diffdrive_robot.egg-info to /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages/diffdrive_robot-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/install.log'

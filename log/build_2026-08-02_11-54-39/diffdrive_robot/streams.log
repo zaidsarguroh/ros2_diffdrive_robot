@@ -1,0 +1,20 @@
+[1.998s] Invoking command in '/home/zaid/diffdrive_ws/src/diffdrive_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/diffdrive_robot build --build-base /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build install --record /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/install.log --install-scripts $base/lib/diffdrive_robot --single-version-externally-managed install_data
+[2.416s] running egg_info
+[2.463s] writing build/diffdrive_robot/diffdrive_robot.egg-info/PKG-INFO
+[2.464s] writing dependency_links to build/diffdrive_robot/diffdrive_robot.egg-info/dependency_links.txt
+[2.464s] writing requirements to build/diffdrive_robot/diffdrive_robot.egg-info/requires.txt
+[2.464s] writing top-level names to build/diffdrive_robot/diffdrive_robot.egg-info/top_level.txt
+[2.565s] reading manifest file 'build/diffdrive_robot/diffdrive_robot.egg-info/SOURCES.txt'
+[2.567s] writing manifest file 'build/diffdrive_robot/diffdrive_robot.egg-info/SOURCES.txt'
+[2.568s] running build
+[2.568s] running build_py
+[2.569s] running install
+[2.586s] running install_lib
+[2.636s] running install_data
+[2.637s] copying urdf/diffdrive_robot.urdf.xacro -> /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/share/diffdrive_robot/urdf
+[2.637s] running install_egg_info
+[2.687s] removing '/home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages/diffdrive_robot-0.0.0-py3.12.egg-info' (and everything under it)
+[2.687s] Copying build/diffdrive_robot/diffdrive_robot.egg-info to /home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages/diffdrive_robot-0.0.0-py3.12.egg-info
+[2.688s] running install_scripts
+[2.988s] writing list of installed files to '/home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/install.log'
+[3.018s] Invoked command in '/home/zaid/diffdrive_ws/src/diffdrive_robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zaid/diffdrive_ws/src/diffdrive_robot/install/diffdrive_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/diffdrive_robot build --build-base /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/build install --record /home/zaid/diffdrive_ws/src/diffdrive_robot/build/diffdrive_robot/install.log --install-scripts $base/lib/diffdrive_robot --single-version-externally-managed install_data
